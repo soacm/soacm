@@ -7,7 +7,7 @@
 * <a href="https://project1-production-daee.up.railway.app/" rel="nofollow">My Futures Monitor</a>, a web application that monitors the price of the major stock indices from the USA and Europe
 * My COT index, a web API currently under development that analyses the Commitment of Traders data from the CFTC
 * EasyLanguage translator, a web application that allows the user to select and customize (from english to EasyLanguage)
-  simple but effective trading system
+  simple but effective trading systems
 
 ## Contact me
 You can reach me at andreisovidiu@gmail.com
